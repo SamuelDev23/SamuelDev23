@@ -4,7 +4,7 @@
 
 <h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; studying web application development at a higher level.
 - 🌱 &nbsp; Learning more, web Design and Artificial Intelligence.
 - ✍️ &nbsp; Reading action or adventure books and playing video games, those are my most favorite hobbies.
